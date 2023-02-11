@@ -14,5 +14,4 @@ To https://github.com/{LatteAy}/alx-zero_day.git
 * [new branch] master -> master
 cd alx-zero_day
 mkdir 0×03-git
-To https://GitHub.com/{LatteAy}/alx-zero_day
-/0×03-git
+To https://GitHub.com/{LatteAy}/alx-zero_day/0×03-git
