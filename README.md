@@ -12,6 +12,6 @@ Writing objects: 100% (3/3), 212 bytes | 212.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0)
 To https://github.com/{LatteAy}/alx-zero_day.git
 * [new branch] master -> master
-root@930992e2701c:/cd alx-zero_day
-root@930992e2701c:/mkdir 0×03-git
+root@930992e2701c:/# cd alx-zero_day
+root@930992e2701c:/alx-zero_day# mkdir 0×03-git
 To https://GitHub.com/{LatteAy}/alx-zero_day/0×03-git.git
